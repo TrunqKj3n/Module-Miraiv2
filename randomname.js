@@ -4,7 +4,7 @@
     version: "1.0.3",
     hasPermssion: 0,
     credits: "Thiệu Trung Kiên",
-    description: "",
+    description: "Random tên 12 quốc gia phiên bản reply",
     commandCategory: "other",
     cooldowns: 3,
 };
