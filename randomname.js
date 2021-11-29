@@ -1,4 +1,4 @@
-  const apikey = "thieutrungkien1";
+  const keymodule = "thieutrungkien1";
   module.exports.config = {
     name: "randomname",
     version: "1.0.3",
