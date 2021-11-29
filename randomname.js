@@ -1,5 +1,5 @@
   const keymodule = "thieutrungkien1";
-/*Thất tình = đập key =))*/
+//Thất tình = đập key =))
   module.exports.config = {
     name: "randomname",
     version: "1.0.3",
